@@ -5,8 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import br.com.alura.forum.model.StatusTopico;
-import br.com.alura.forum.model.Topico;
+import br.com.alura.model.StatusTopico;
+import br.com.alura.model.Topico;
 
 public class DetalherDoTopicoDto {
 

@@ -6,7 +6,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import br.com.alura.forum.model.Topico;
+import br.com.alura.model.Topico;
 
 public interface TopicoRepository extends JpaRepository<Topico, Long> {
 

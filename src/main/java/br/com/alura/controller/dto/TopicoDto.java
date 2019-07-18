@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 import org.springframework.data.domain.Page;
 
-import br.com.alura.forum.model.Topico;
+import br.com.alura.model.Topico;
 
 public class TopicoDto {
 	

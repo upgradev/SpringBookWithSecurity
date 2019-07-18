@@ -5,7 +5,7 @@ import javax.validation.constraints.NotNull;
 
 import org.hibernate.validator.constraints.Length;
 
-import br.com.alura.forum.model.Topico;
+import br.com.alura.model.Topico;
 import br.com.alura.repository.TopicoRepository;
 
 public class AtualizacaoTopicoFom {
